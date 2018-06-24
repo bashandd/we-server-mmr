@@ -4,7 +4,7 @@ type:
 image: /img/products-jumbotron.jpg
 heading: Welcome to We Serve
 description: >-
-Welcome to We Serve Charitable Foundation. We will know all the needs of people and we will provide our best service. Our People are always ready to help the people.
+    Welcome to We Serve Charitable Foundation. We will know all the needs of people and we will provide our best service. Our People       arealways ready to help the people.
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
