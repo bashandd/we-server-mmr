@@ -1,13 +1,10 @@
 ---
-title: Our Coffee
-type: products
+title: We Serve Foundation
+type: 
 image: /img/products-jumbotron.jpg
-heading: What we offer
+heading: Welcome to We Serve
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+Welcome to We Serve Charitable Foundation. We will know all the needs of people and we will provide our best service. Our People are always ready to help the people.
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
